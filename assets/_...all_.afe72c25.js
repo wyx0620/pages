@@ -1,1 +1,0 @@
-import{b as o}from"./route-block.78efdbad.js";import{_ as e,c as t,o as n}from"./index.60f6ce89.js";const c={};function _(r,a){return n(),t("div",null," Not Found ")}typeof o=="function"&&o(c);const l=e(c,[["render",_]]);export{l as default};
